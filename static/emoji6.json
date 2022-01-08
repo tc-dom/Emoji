@@ -1,0 +1,4991 @@
+[{
+  "codes": "#6",
+  "char": "Person role",
+  "name": "Header",
+  "category": "People & Body (person-role)",
+  "group": "People & Body",
+  "subgroup": "person-role"
+},{
+    "codes": "1F9D1 200D 2695 FE0F",
+    "char": "🧑‍⚕️",
+    "name": "health worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 2695",
+    "char": "🧑‍⚕",
+    "name": "health worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 2695 FE0F",
+    "char": "🧑🏻‍⚕️",
+    "name": "health worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 2695",
+    "char": "🧑🏻‍⚕",
+    "name": "health worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 2695 FE0F",
+    "char": "🧑🏼‍⚕️",
+    "name": "health worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 2695",
+    "char": "🧑🏼‍⚕",
+    "name": "health worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 2695 FE0F",
+    "char": "🧑🏽‍⚕️",
+    "name": "health worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 2695",
+    "char": "🧑🏽‍⚕",
+    "name": "health worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 2695 FE0F",
+    "char": "🧑🏾‍⚕️",
+    "name": "health worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 2695",
+    "char": "🧑🏾‍⚕",
+    "name": "health worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 2695 FE0F",
+    "char": "🧑🏿‍⚕️",
+    "name": "health worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 2695",
+    "char": "🧑🏿‍⚕",
+    "name": "health worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 2695 FE0F",
+    "char": "👨‍⚕️",
+    "name": "man health worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 2695",
+    "char": "👨‍⚕",
+    "name": "man health worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 2695 FE0F",
+    "char": "👨🏻‍⚕️",
+    "name": "man health worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 2695",
+    "char": "👨🏻‍⚕",
+    "name": "man health worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 2695 FE0F",
+    "char": "👨🏼‍⚕️",
+    "name": "man health worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 2695",
+    "char": "👨🏼‍⚕",
+    "name": "man health worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 2695 FE0F",
+    "char": "👨🏽‍⚕️",
+    "name": "man health worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 2695",
+    "char": "👨🏽‍⚕",
+    "name": "man health worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 2695 FE0F",
+    "char": "👨🏾‍⚕️",
+    "name": "man health worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 2695",
+    "char": "👨🏾‍⚕",
+    "name": "man health worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 2695 FE0F",
+    "char": "👨🏿‍⚕️",
+    "name": "man health worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 2695",
+    "char": "👨🏿‍⚕",
+    "name": "man health worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 2695 FE0F",
+    "char": "👩‍⚕️",
+    "name": "woman health worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 2695",
+    "char": "👩‍⚕",
+    "name": "woman health worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 2695 FE0F",
+    "char": "👩🏻‍⚕️",
+    "name": "woman health worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 2695",
+    "char": "👩🏻‍⚕",
+    "name": "woman health worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 2695 FE0F",
+    "char": "👩🏼‍⚕️",
+    "name": "woman health worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 2695",
+    "char": "👩🏼‍⚕",
+    "name": "woman health worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 2695 FE0F",
+    "char": "👩🏽‍⚕️",
+    "name": "woman health worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 2695",
+    "char": "👩🏽‍⚕",
+    "name": "woman health worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 2695 FE0F",
+    "char": "👩🏾‍⚕️",
+    "name": "woman health worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 2695",
+    "char": "👩🏾‍⚕",
+    "name": "woman health worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 2695 FE0F",
+    "char": "👩🏿‍⚕️",
+    "name": "woman health worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 2695",
+    "char": "👩🏿‍⚕",
+    "name": "woman health worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F393",
+    "char": "🧑‍🎓",
+    "name": "student",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F393",
+    "char": "🧑🏻‍🎓",
+    "name": "student: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F393",
+    "char": "🧑🏼‍🎓",
+    "name": "student: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F393",
+    "char": "🧑🏽‍🎓",
+    "name": "student: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F393",
+    "char": "🧑🏾‍🎓",
+    "name": "student: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F393",
+    "char": "🧑🏿‍🎓",
+    "name": "student: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F393",
+    "char": "👨‍🎓",
+    "name": "man student",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F393",
+    "char": "👨🏻‍🎓",
+    "name": "man student: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F393",
+    "char": "👨🏼‍🎓",
+    "name": "man student: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F393",
+    "char": "👨🏽‍🎓",
+    "name": "man student: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F393",
+    "char": "👨🏾‍🎓",
+    "name": "man student: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F393",
+    "char": "👨🏿‍🎓",
+    "name": "man student: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F393",
+    "char": "👩‍🎓",
+    "name": "woman student",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F393",
+    "char": "👩🏻‍🎓",
+    "name": "woman student: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F393",
+    "char": "👩🏼‍🎓",
+    "name": "woman student: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F393",
+    "char": "👩🏽‍🎓",
+    "name": "woman student: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F393",
+    "char": "👩🏾‍🎓",
+    "name": "woman student: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F393",
+    "char": "👩🏿‍🎓",
+    "name": "woman student: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F3EB",
+    "char": "🧑‍🏫",
+    "name": "teacher",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F3EB",
+    "char": "🧑🏻‍🏫",
+    "name": "teacher: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F3EB",
+    "char": "🧑🏼‍🏫",
+    "name": "teacher: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F3EB",
+    "char": "🧑🏽‍🏫",
+    "name": "teacher: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F3EB",
+    "char": "🧑🏾‍🏫",
+    "name": "teacher: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F3EB",
+    "char": "🧑🏿‍🏫",
+    "name": "teacher: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F3EB",
+    "char": "👨‍🏫",
+    "name": "man teacher",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F3EB",
+    "char": "👨🏻‍🏫",
+    "name": "man teacher: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F3EB",
+    "char": "👨🏼‍🏫",
+    "name": "man teacher: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F3EB",
+    "char": "👨🏽‍🏫",
+    "name": "man teacher: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F3EB",
+    "char": "👨🏾‍🏫",
+    "name": "man teacher: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F3EB",
+    "char": "👨🏿‍🏫",
+    "name": "man teacher: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F3EB",
+    "char": "👩‍🏫",
+    "name": "woman teacher",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F3EB",
+    "char": "👩🏻‍🏫",
+    "name": "woman teacher: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F3EB",
+    "char": "👩🏼‍🏫",
+    "name": "woman teacher: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F3EB",
+    "char": "👩🏽‍🏫",
+    "name": "woman teacher: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F3EB",
+    "char": "👩🏾‍🏫",
+    "name": "woman teacher: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F3EB",
+    "char": "👩🏿‍🏫",
+    "name": "woman teacher: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 2696 FE0F",
+    "char": "🧑‍⚖️",
+    "name": "judge",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 2696",
+    "char": "🧑‍⚖",
+    "name": "judge",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 2696 FE0F",
+    "char": "🧑🏻‍⚖️",
+    "name": "judge: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 2696",
+    "char": "🧑🏻‍⚖",
+    "name": "judge: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 2696 FE0F",
+    "char": "🧑🏼‍⚖️",
+    "name": "judge: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 2696",
+    "char": "🧑🏼‍⚖",
+    "name": "judge: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 2696 FE0F",
+    "char": "🧑🏽‍⚖️",
+    "name": "judge: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 2696",
+    "char": "🧑🏽‍⚖",
+    "name": "judge: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 2696 FE0F",
+    "char": "🧑🏾‍⚖️",
+    "name": "judge: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 2696",
+    "char": "🧑🏾‍⚖",
+    "name": "judge: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 2696 FE0F",
+    "char": "🧑🏿‍⚖️",
+    "name": "judge: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 2696",
+    "char": "🧑🏿‍⚖",
+    "name": "judge: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 2696 FE0F",
+    "char": "👨‍⚖️",
+    "name": "man judge",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 2696",
+    "char": "👨‍⚖",
+    "name": "man judge",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 2696 FE0F",
+    "char": "👨🏻‍⚖️",
+    "name": "man judge: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 2696",
+    "char": "👨🏻‍⚖",
+    "name": "man judge: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 2696 FE0F",
+    "char": "👨🏼‍⚖️",
+    "name": "man judge: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 2696",
+    "char": "👨🏼‍⚖",
+    "name": "man judge: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 2696 FE0F",
+    "char": "👨🏽‍⚖️",
+    "name": "man judge: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 2696",
+    "char": "👨🏽‍⚖",
+    "name": "man judge: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 2696 FE0F",
+    "char": "👨🏾‍⚖️",
+    "name": "man judge: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 2696",
+    "char": "👨🏾‍⚖",
+    "name": "man judge: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 2696 FE0F",
+    "char": "👨🏿‍⚖️",
+    "name": "man judge: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 2696",
+    "char": "👨🏿‍⚖",
+    "name": "man judge: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 2696 FE0F",
+    "char": "👩‍⚖️",
+    "name": "woman judge",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 2696",
+    "char": "👩‍⚖",
+    "name": "woman judge",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 2696 FE0F",
+    "char": "👩🏻‍⚖️",
+    "name": "woman judge: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 2696",
+    "char": "👩🏻‍⚖",
+    "name": "woman judge: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 2696 FE0F",
+    "char": "👩🏼‍⚖️",
+    "name": "woman judge: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 2696",
+    "char": "👩🏼‍⚖",
+    "name": "woman judge: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 2696 FE0F",
+    "char": "👩🏽‍⚖️",
+    "name": "woman judge: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 2696",
+    "char": "👩🏽‍⚖",
+    "name": "woman judge: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 2696 FE0F",
+    "char": "👩🏾‍⚖️",
+    "name": "woman judge: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 2696",
+    "char": "👩🏾‍⚖",
+    "name": "woman judge: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 2696 FE0F",
+    "char": "👩🏿‍⚖️",
+    "name": "woman judge: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 2696",
+    "char": "👩🏿‍⚖",
+    "name": "woman judge: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F33E",
+    "char": "🧑‍🌾",
+    "name": "farmer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F33E",
+    "char": "🧑🏻‍🌾",
+    "name": "farmer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F33E",
+    "char": "🧑🏼‍🌾",
+    "name": "farmer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F33E",
+    "char": "🧑🏽‍🌾",
+    "name": "farmer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F33E",
+    "char": "🧑🏾‍🌾",
+    "name": "farmer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F33E",
+    "char": "🧑🏿‍🌾",
+    "name": "farmer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F33E",
+    "char": "👨‍🌾",
+    "name": "man farmer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F33E",
+    "char": "👨🏻‍🌾",
+    "name": "man farmer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F33E",
+    "char": "👨🏼‍🌾",
+    "name": "man farmer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F33E",
+    "char": "👨🏽‍🌾",
+    "name": "man farmer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F33E",
+    "char": "👨🏾‍🌾",
+    "name": "man farmer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F33E",
+    "char": "👨🏿‍🌾",
+    "name": "man farmer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F33E",
+    "char": "👩‍🌾",
+    "name": "woman farmer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F33E",
+    "char": "👩🏻‍🌾",
+    "name": "woman farmer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F33E",
+    "char": "👩🏼‍🌾",
+    "name": "woman farmer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F33E",
+    "char": "👩🏽‍🌾",
+    "name": "woman farmer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F33E",
+    "char": "👩🏾‍🌾",
+    "name": "woman farmer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F33E",
+    "char": "👩🏿‍🌾",
+    "name": "woman farmer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F373",
+    "char": "🧑‍🍳",
+    "name": "cook",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F373",
+    "char": "🧑🏻‍🍳",
+    "name": "cook: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F373",
+    "char": "🧑🏼‍🍳",
+    "name": "cook: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F373",
+    "char": "🧑🏽‍🍳",
+    "name": "cook: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F373",
+    "char": "🧑🏾‍🍳",
+    "name": "cook: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F373",
+    "char": "🧑🏿‍🍳",
+    "name": "cook: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F373",
+    "char": "👨‍🍳",
+    "name": "man cook",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F373",
+    "char": "👨🏻‍🍳",
+    "name": "man cook: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F373",
+    "char": "👨🏼‍🍳",
+    "name": "man cook: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F373",
+    "char": "👨🏽‍🍳",
+    "name": "man cook: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F373",
+    "char": "👨🏾‍🍳",
+    "name": "man cook: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F373",
+    "char": "👨🏿‍🍳",
+    "name": "man cook: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F373",
+    "char": "👩‍🍳",
+    "name": "woman cook",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F373",
+    "char": "👩🏻‍🍳",
+    "name": "woman cook: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F373",
+    "char": "👩🏼‍🍳",
+    "name": "woman cook: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F373",
+    "char": "👩🏽‍🍳",
+    "name": "woman cook: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F373",
+    "char": "👩🏾‍🍳",
+    "name": "woman cook: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F373",
+    "char": "👩🏿‍🍳",
+    "name": "woman cook: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F527",
+    "char": "🧑‍🔧",
+    "name": "mechanic",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F527",
+    "char": "🧑🏻‍🔧",
+    "name": "mechanic: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F527",
+    "char": "🧑🏼‍🔧",
+    "name": "mechanic: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F527",
+    "char": "🧑🏽‍🔧",
+    "name": "mechanic: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F527",
+    "char": "🧑🏾‍🔧",
+    "name": "mechanic: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F527",
+    "char": "🧑🏿‍🔧",
+    "name": "mechanic: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F527",
+    "char": "👨‍🔧",
+    "name": "man mechanic",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F527",
+    "char": "👨🏻‍🔧",
+    "name": "man mechanic: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F527",
+    "char": "👨🏼‍🔧",
+    "name": "man mechanic: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F527",
+    "char": "👨🏽‍🔧",
+    "name": "man mechanic: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F527",
+    "char": "👨🏾‍🔧",
+    "name": "man mechanic: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F527",
+    "char": "👨🏿‍🔧",
+    "name": "man mechanic: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F527",
+    "char": "👩‍🔧",
+    "name": "woman mechanic",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F527",
+    "char": "👩🏻‍🔧",
+    "name": "woman mechanic: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F527",
+    "char": "👩🏼‍🔧",
+    "name": "woman mechanic: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F527",
+    "char": "👩🏽‍🔧",
+    "name": "woman mechanic: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F527",
+    "char": "👩🏾‍🔧",
+    "name": "woman mechanic: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F527",
+    "char": "👩🏿‍🔧",
+    "name": "woman mechanic: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F3ED",
+    "char": "🧑‍🏭",
+    "name": "factory worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F3ED",
+    "char": "🧑🏻‍🏭",
+    "name": "factory worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F3ED",
+    "char": "🧑🏼‍🏭",
+    "name": "factory worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F3ED",
+    "char": "🧑🏽‍🏭",
+    "name": "factory worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F3ED",
+    "char": "🧑🏾‍🏭",
+    "name": "factory worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F3ED",
+    "char": "🧑🏿‍🏭",
+    "name": "factory worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F3ED",
+    "char": "👨‍🏭",
+    "name": "man factory worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F3ED",
+    "char": "👨🏻‍🏭",
+    "name": "man factory worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F3ED",
+    "char": "👨🏼‍🏭",
+    "name": "man factory worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F3ED",
+    "char": "👨🏽‍🏭",
+    "name": "man factory worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F3ED",
+    "char": "👨🏾‍🏭",
+    "name": "man factory worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F3ED",
+    "char": "👨🏿‍🏭",
+    "name": "man factory worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F3ED",
+    "char": "👩‍🏭",
+    "name": "woman factory worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F3ED",
+    "char": "👩🏻‍🏭",
+    "name": "woman factory worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F3ED",
+    "char": "👩🏼‍🏭",
+    "name": "woman factory worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F3ED",
+    "char": "👩🏽‍🏭",
+    "name": "woman factory worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F3ED",
+    "char": "👩🏾‍🏭",
+    "name": "woman factory worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F3ED",
+    "char": "👩🏿‍🏭",
+    "name": "woman factory worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F4BC",
+    "char": "🧑‍💼",
+    "name": "office worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F4BC",
+    "char": "🧑🏻‍💼",
+    "name": "office worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F4BC",
+    "char": "🧑🏼‍💼",
+    "name": "office worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F4BC",
+    "char": "🧑🏽‍💼",
+    "name": "office worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F4BC",
+    "char": "🧑🏾‍💼",
+    "name": "office worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F4BC",
+    "char": "🧑🏿‍💼",
+    "name": "office worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F4BC",
+    "char": "👨‍💼",
+    "name": "man office worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F4BC",
+    "char": "👨🏻‍💼",
+    "name": "man office worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F4BC",
+    "char": "👨🏼‍💼",
+    "name": "man office worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F4BC",
+    "char": "👨🏽‍💼",
+    "name": "man office worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F4BC",
+    "char": "👨🏾‍💼",
+    "name": "man office worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F4BC",
+    "char": "👨🏿‍💼",
+    "name": "man office worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F4BC",
+    "char": "👩‍💼",
+    "name": "woman office worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F4BC",
+    "char": "👩🏻‍💼",
+    "name": "woman office worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F4BC",
+    "char": "👩🏼‍💼",
+    "name": "woman office worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F4BC",
+    "char": "👩🏽‍💼",
+    "name": "woman office worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F4BC",
+    "char": "👩🏾‍💼",
+    "name": "woman office worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F4BC",
+    "char": "👩🏿‍💼",
+    "name": "woman office worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F52C",
+    "char": "🧑‍🔬",
+    "name": "scientist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F52C",
+    "char": "🧑🏻‍🔬",
+    "name": "scientist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F52C",
+    "char": "🧑🏼‍🔬",
+    "name": "scientist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F52C",
+    "char": "🧑🏽‍🔬",
+    "name": "scientist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F52C",
+    "char": "🧑🏾‍🔬",
+    "name": "scientist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F52C",
+    "char": "🧑🏿‍🔬",
+    "name": "scientist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F52C",
+    "char": "👨‍🔬",
+    "name": "man scientist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F52C",
+    "char": "👨🏻‍🔬",
+    "name": "man scientist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F52C",
+    "char": "👨🏼‍🔬",
+    "name": "man scientist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F52C",
+    "char": "👨🏽‍🔬",
+    "name": "man scientist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F52C",
+    "char": "👨🏾‍🔬",
+    "name": "man scientist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F52C",
+    "char": "👨🏿‍🔬",
+    "name": "man scientist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F52C",
+    "char": "👩‍🔬",
+    "name": "woman scientist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F52C",
+    "char": "👩🏻‍🔬",
+    "name": "woman scientist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F52C",
+    "char": "👩🏼‍🔬",
+    "name": "woman scientist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F52C",
+    "char": "👩🏽‍🔬",
+    "name": "woman scientist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F52C",
+    "char": "👩🏾‍🔬",
+    "name": "woman scientist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F52C",
+    "char": "👩🏿‍🔬",
+    "name": "woman scientist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F4BB",
+    "char": "🧑‍💻",
+    "name": "technologist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F4BB",
+    "char": "🧑🏻‍💻",
+    "name": "technologist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F4BB",
+    "char": "🧑🏼‍💻",
+    "name": "technologist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F4BB",
+    "char": "🧑🏽‍💻",
+    "name": "technologist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F4BB",
+    "char": "🧑🏾‍💻",
+    "name": "technologist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F4BB",
+    "char": "🧑🏿‍💻",
+    "name": "technologist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F4BB",
+    "char": "👨‍💻",
+    "name": "man technologist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F4BB",
+    "char": "👨🏻‍💻",
+    "name": "man technologist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F4BB",
+    "char": "👨🏼‍💻",
+    "name": "man technologist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F4BB",
+    "char": "👨🏽‍💻",
+    "name": "man technologist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F4BB",
+    "char": "👨🏾‍💻",
+    "name": "man technologist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F4BB",
+    "char": "👨🏿‍💻",
+    "name": "man technologist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F4BB",
+    "char": "👩‍💻",
+    "name": "woman technologist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F4BB",
+    "char": "👩🏻‍💻",
+    "name": "woman technologist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F4BB",
+    "char": "👩🏼‍💻",
+    "name": "woman technologist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F4BB",
+    "char": "👩🏽‍💻",
+    "name": "woman technologist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F4BB",
+    "char": "👩🏾‍💻",
+    "name": "woman technologist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F4BB",
+    "char": "👩🏿‍💻",
+    "name": "woman technologist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F3A4",
+    "char": "🧑‍🎤",
+    "name": "singer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F3A4",
+    "char": "🧑🏻‍🎤",
+    "name": "singer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F3A4",
+    "char": "🧑🏼‍🎤",
+    "name": "singer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F3A4",
+    "char": "🧑🏽‍🎤",
+    "name": "singer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F3A4",
+    "char": "🧑🏾‍🎤",
+    "name": "singer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F3A4",
+    "char": "🧑🏿‍🎤",
+    "name": "singer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F3A4",
+    "char": "👨‍🎤",
+    "name": "man singer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F3A4",
+    "char": "👨🏻‍🎤",
+    "name": "man singer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F3A4",
+    "char": "👨🏼‍🎤",
+    "name": "man singer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F3A4",
+    "char": "👨🏽‍🎤",
+    "name": "man singer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F3A4",
+    "char": "👨🏾‍🎤",
+    "name": "man singer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F3A4",
+    "char": "👨🏿‍🎤",
+    "name": "man singer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F3A4",
+    "char": "👩‍🎤",
+    "name": "woman singer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F3A4",
+    "char": "👩🏻‍🎤",
+    "name": "woman singer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F3A4",
+    "char": "👩🏼‍🎤",
+    "name": "woman singer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F3A4",
+    "char": "👩🏽‍🎤",
+    "name": "woman singer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F3A4",
+    "char": "👩🏾‍🎤",
+    "name": "woman singer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F3A4",
+    "char": "👩🏿‍🎤",
+    "name": "woman singer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F3A8",
+    "char": "🧑‍🎨",
+    "name": "artist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F3A8",
+    "char": "🧑🏻‍🎨",
+    "name": "artist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F3A8",
+    "char": "🧑🏼‍🎨",
+    "name": "artist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F3A8",
+    "char": "🧑🏽‍🎨",
+    "name": "artist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F3A8",
+    "char": "🧑🏾‍🎨",
+    "name": "artist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F3A8",
+    "char": "🧑🏿‍🎨",
+    "name": "artist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F3A8",
+    "char": "👨‍🎨",
+    "name": "man artist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F3A8",
+    "char": "👨🏻‍🎨",
+    "name": "man artist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F3A8",
+    "char": "👨🏼‍🎨",
+    "name": "man artist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F3A8",
+    "char": "👨🏽‍🎨",
+    "name": "man artist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F3A8",
+    "char": "👨🏾‍🎨",
+    "name": "man artist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F3A8",
+    "char": "👨🏿‍🎨",
+    "name": "man artist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F3A8",
+    "char": "👩‍🎨",
+    "name": "woman artist",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F3A8",
+    "char": "👩🏻‍🎨",
+    "name": "woman artist: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F3A8",
+    "char": "👩🏼‍🎨",
+    "name": "woman artist: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F3A8",
+    "char": "👩🏽‍🎨",
+    "name": "woman artist: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F3A8",
+    "char": "👩🏾‍🎨",
+    "name": "woman artist: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F3A8",
+    "char": "👩🏿‍🎨",
+    "name": "woman artist: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 2708 FE0F",
+    "char": "🧑‍✈️",
+    "name": "pilot",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 2708",
+    "char": "🧑‍✈",
+    "name": "pilot",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 2708 FE0F",
+    "char": "🧑🏻‍✈️",
+    "name": "pilot: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 2708",
+    "char": "🧑🏻‍✈",
+    "name": "pilot: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 2708 FE0F",
+    "char": "🧑🏼‍✈️",
+    "name": "pilot: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 2708",
+    "char": "🧑🏼‍✈",
+    "name": "pilot: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 2708 FE0F",
+    "char": "🧑🏽‍✈️",
+    "name": "pilot: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 2708",
+    "char": "🧑🏽‍✈",
+    "name": "pilot: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 2708 FE0F",
+    "char": "🧑🏾‍✈️",
+    "name": "pilot: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 2708",
+    "char": "🧑🏾‍✈",
+    "name": "pilot: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 2708 FE0F",
+    "char": "🧑🏿‍✈️",
+    "name": "pilot: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 2708",
+    "char": "🧑🏿‍✈",
+    "name": "pilot: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 2708 FE0F",
+    "char": "👨‍✈️",
+    "name": "man pilot",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 2708",
+    "char": "👨‍✈",
+    "name": "man pilot",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 2708 FE0F",
+    "char": "👨🏻‍✈️",
+    "name": "man pilot: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 2708",
+    "char": "👨🏻‍✈",
+    "name": "man pilot: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 2708 FE0F",
+    "char": "👨🏼‍✈️",
+    "name": "man pilot: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 2708",
+    "char": "👨🏼‍✈",
+    "name": "man pilot: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 2708 FE0F",
+    "char": "👨🏽‍✈️",
+    "name": "man pilot: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 2708",
+    "char": "👨🏽‍✈",
+    "name": "man pilot: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 2708 FE0F",
+    "char": "👨🏾‍✈️",
+    "name": "man pilot: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 2708",
+    "char": "👨🏾‍✈",
+    "name": "man pilot: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 2708 FE0F",
+    "char": "👨🏿‍✈️",
+    "name": "man pilot: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 2708",
+    "char": "👨🏿‍✈",
+    "name": "man pilot: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 2708 FE0F",
+    "char": "👩‍✈️",
+    "name": "woman pilot",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 2708",
+    "char": "👩‍✈",
+    "name": "woman pilot",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 2708 FE0F",
+    "char": "👩🏻‍✈️",
+    "name": "woman pilot: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 2708",
+    "char": "👩🏻‍✈",
+    "name": "woman pilot: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 2708 FE0F",
+    "char": "👩🏼‍✈️",
+    "name": "woman pilot: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 2708",
+    "char": "👩🏼‍✈",
+    "name": "woman pilot: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 2708 FE0F",
+    "char": "👩🏽‍✈️",
+    "name": "woman pilot: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 2708",
+    "char": "👩🏽‍✈",
+    "name": "woman pilot: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 2708 FE0F",
+    "char": "👩🏾‍✈️",
+    "name": "woman pilot: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 2708",
+    "char": "👩🏾‍✈",
+    "name": "woman pilot: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 2708 FE0F",
+    "char": "👩🏿‍✈️",
+    "name": "woman pilot: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 2708",
+    "char": "👩🏿‍✈",
+    "name": "woman pilot: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F680",
+    "char": "🧑‍🚀",
+    "name": "astronaut",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F680",
+    "char": "🧑🏻‍🚀",
+    "name": "astronaut: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F680",
+    "char": "🧑🏼‍🚀",
+    "name": "astronaut: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F680",
+    "char": "🧑🏽‍🚀",
+    "name": "astronaut: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F680",
+    "char": "🧑🏾‍🚀",
+    "name": "astronaut: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F680",
+    "char": "🧑🏿‍🚀",
+    "name": "astronaut: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F680",
+    "char": "👨‍🚀",
+    "name": "man astronaut",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F680",
+    "char": "👨🏻‍🚀",
+    "name": "man astronaut: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F680",
+    "char": "👨🏼‍🚀",
+    "name": "man astronaut: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F680",
+    "char": "👨🏽‍🚀",
+    "name": "man astronaut: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F680",
+    "char": "👨🏾‍🚀",
+    "name": "man astronaut: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F680",
+    "char": "👨🏿‍🚀",
+    "name": "man astronaut: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F680",
+    "char": "👩‍🚀",
+    "name": "woman astronaut",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F680",
+    "char": "👩🏻‍🚀",
+    "name": "woman astronaut: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F680",
+    "char": "👩🏼‍🚀",
+    "name": "woman astronaut: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F680",
+    "char": "👩🏽‍🚀",
+    "name": "woman astronaut: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F680",
+    "char": "👩🏾‍🚀",
+    "name": "woman astronaut: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F680",
+    "char": "👩🏿‍🚀",
+    "name": "woman astronaut: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F692",
+    "char": "🧑‍🚒",
+    "name": "firefighter",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F692",
+    "char": "🧑🏻‍🚒",
+    "name": "firefighter: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F692",
+    "char": "🧑🏼‍🚒",
+    "name": "firefighter: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F692",
+    "char": "🧑🏽‍🚒",
+    "name": "firefighter: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F692",
+    "char": "🧑🏾‍🚒",
+    "name": "firefighter: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F692",
+    "char": "🧑🏿‍🚒",
+    "name": "firefighter: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F692",
+    "char": "👨‍🚒",
+    "name": "man firefighter",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F692",
+    "char": "👨🏻‍🚒",
+    "name": "man firefighter: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F692",
+    "char": "👨🏼‍🚒",
+    "name": "man firefighter: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F692",
+    "char": "👨🏽‍🚒",
+    "name": "man firefighter: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F692",
+    "char": "👨🏾‍🚒",
+    "name": "man firefighter: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F692",
+    "char": "👨🏿‍🚒",
+    "name": "man firefighter: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F692",
+    "char": "👩‍🚒",
+    "name": "woman firefighter",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F692",
+    "char": "👩🏻‍🚒",
+    "name": "woman firefighter: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F692",
+    "char": "👩🏼‍🚒",
+    "name": "woman firefighter: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F692",
+    "char": "👩🏽‍🚒",
+    "name": "woman firefighter: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F692",
+    "char": "👩🏾‍🚒",
+    "name": "woman firefighter: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F692",
+    "char": "👩🏿‍🚒",
+    "name": "woman firefighter: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E",
+    "char": "👮",
+    "name": "police officer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FB",
+    "char": "👮🏻",
+    "name": "police officer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FC",
+    "char": "👮🏼",
+    "name": "police officer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FD",
+    "char": "👮🏽",
+    "name": "police officer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FE",
+    "char": "👮🏾",
+    "name": "police officer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FF",
+    "char": "👮🏿",
+    "name": "police officer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 200D 2642 FE0F",
+    "char": "👮‍♂️",
+    "name": "man police officer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 200D 2642",
+    "char": "👮‍♂",
+    "name": "man police officer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FB 200D 2642 FE0F",
+    "char": "👮🏻‍♂️",
+    "name": "man police officer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FB 200D 2642",
+    "char": "👮🏻‍♂",
+    "name": "man police officer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FC 200D 2642 FE0F",
+    "char": "👮🏼‍♂️",
+    "name": "man police officer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FC 200D 2642",
+    "char": "👮🏼‍♂",
+    "name": "man police officer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FD 200D 2642 FE0F",
+    "char": "👮🏽‍♂️",
+    "name": "man police officer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FD 200D 2642",
+    "char": "👮🏽‍♂",
+    "name": "man police officer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FE 200D 2642 FE0F",
+    "char": "👮🏾‍♂️",
+    "name": "man police officer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FE 200D 2642",
+    "char": "👮🏾‍♂",
+    "name": "man police officer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FF 200D 2642 FE0F",
+    "char": "👮🏿‍♂️",
+    "name": "man police officer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FF 200D 2642",
+    "char": "👮🏿‍♂",
+    "name": "man police officer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 200D 2640 FE0F",
+    "char": "👮‍♀️",
+    "name": "woman police officer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 200D 2640",
+    "char": "👮‍♀",
+    "name": "woman police officer",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FB 200D 2640 FE0F",
+    "char": "👮🏻‍♀️",
+    "name": "woman police officer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FB 200D 2640",
+    "char": "👮🏻‍♀",
+    "name": "woman police officer: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FC 200D 2640 FE0F",
+    "char": "👮🏼‍♀️",
+    "name": "woman police officer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FC 200D 2640",
+    "char": "👮🏼‍♀",
+    "name": "woman police officer: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FD 200D 2640 FE0F",
+    "char": "👮🏽‍♀️",
+    "name": "woman police officer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FD 200D 2640",
+    "char": "👮🏽‍♀",
+    "name": "woman police officer: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FE 200D 2640 FE0F",
+    "char": "👮🏾‍♀️",
+    "name": "woman police officer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FE 200D 2640",
+    "char": "👮🏾‍♀",
+    "name": "woman police officer: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FF 200D 2640 FE0F",
+    "char": "👮🏿‍♀️",
+    "name": "woman police officer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F46E 1F3FF 200D 2640",
+    "char": "👮🏿‍♀",
+    "name": "woman police officer: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 FE0F",
+    "char": "🕵️",
+    "name": "detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575",
+    "char": "🕵",
+    "name": "detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FB",
+    "char": "🕵🏻",
+    "name": "detective: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FC",
+    "char": "🕵🏼",
+    "name": "detective: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FD",
+    "char": "🕵🏽",
+    "name": "detective: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FE",
+    "char": "🕵🏾",
+    "name": "detective: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FF",
+    "char": "🕵🏿",
+    "name": "detective: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 FE0F 200D 2642 FE0F",
+    "char": "🕵️‍♂️",
+    "name": "man detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 200D 2642 FE0F",
+    "char": "🕵‍♂️",
+    "name": "man detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 FE0F 200D 2642",
+    "char": "🕵️‍♂",
+    "name": "man detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 200D 2642",
+    "char": "🕵‍♂",
+    "name": "man detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FB 200D 2642 FE0F",
+    "char": "🕵🏻‍♂️",
+    "name": "man detective: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FB 200D 2642",
+    "char": "🕵🏻‍♂",
+    "name": "man detective: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FC 200D 2642 FE0F",
+    "char": "🕵🏼‍♂️",
+    "name": "man detective: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FC 200D 2642",
+    "char": "🕵🏼‍♂",
+    "name": "man detective: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FD 200D 2642 FE0F",
+    "char": "🕵🏽‍♂️",
+    "name": "man detective: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FD 200D 2642",
+    "char": "🕵🏽‍♂",
+    "name": "man detective: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FE 200D 2642 FE0F",
+    "char": "🕵🏾‍♂️",
+    "name": "man detective: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FE 200D 2642",
+    "char": "🕵🏾‍♂",
+    "name": "man detective: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FF 200D 2642 FE0F",
+    "char": "🕵🏿‍♂️",
+    "name": "man detective: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FF 200D 2642",
+    "char": "🕵🏿‍♂",
+    "name": "man detective: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 FE0F 200D 2640 FE0F",
+    "char": "🕵️‍♀️",
+    "name": "woman detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 200D 2640 FE0F",
+    "char": "🕵‍♀️",
+    "name": "woman detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 FE0F 200D 2640",
+    "char": "🕵️‍♀",
+    "name": "woman detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 200D 2640",
+    "char": "🕵‍♀",
+    "name": "woman detective",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FB 200D 2640 FE0F",
+    "char": "🕵🏻‍♀️",
+    "name": "woman detective: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FB 200D 2640",
+    "char": "🕵🏻‍♀",
+    "name": "woman detective: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FC 200D 2640 FE0F",
+    "char": "🕵🏼‍♀️",
+    "name": "woman detective: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FC 200D 2640",
+    "char": "🕵🏼‍♀",
+    "name": "woman detective: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FD 200D 2640 FE0F",
+    "char": "🕵🏽‍♀️",
+    "name": "woman detective: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FD 200D 2640",
+    "char": "🕵🏽‍♀",
+    "name": "woman detective: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FE 200D 2640 FE0F",
+    "char": "🕵🏾‍♀️",
+    "name": "woman detective: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FE 200D 2640",
+    "char": "🕵🏾‍♀",
+    "name": "woman detective: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FF 200D 2640 FE0F",
+    "char": "🕵🏿‍♀️",
+    "name": "woman detective: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F575 1F3FF 200D 2640",
+    "char": "🕵🏿‍♀",
+    "name": "woman detective: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482",
+    "char": "💂",
+    "name": "guard",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FB",
+    "char": "💂🏻",
+    "name": "guard: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FC",
+    "char": "💂🏼",
+    "name": "guard: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FD",
+    "char": "💂🏽",
+    "name": "guard: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FE",
+    "char": "💂🏾",
+    "name": "guard: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FF",
+    "char": "💂🏿",
+    "name": "guard: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 200D 2642 FE0F",
+    "char": "💂‍♂️",
+    "name": "man guard",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 200D 2642",
+    "char": "💂‍♂",
+    "name": "man guard",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FB 200D 2642 FE0F",
+    "char": "💂🏻‍♂️",
+    "name": "man guard: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FB 200D 2642",
+    "char": "💂🏻‍♂",
+    "name": "man guard: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FC 200D 2642 FE0F",
+    "char": "💂🏼‍♂️",
+    "name": "man guard: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FC 200D 2642",
+    "char": "💂🏼‍♂",
+    "name": "man guard: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FD 200D 2642 FE0F",
+    "char": "💂🏽‍♂️",
+    "name": "man guard: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FD 200D 2642",
+    "char": "💂🏽‍♂",
+    "name": "man guard: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FE 200D 2642 FE0F",
+    "char": "💂🏾‍♂️",
+    "name": "man guard: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FE 200D 2642",
+    "char": "💂🏾‍♂",
+    "name": "man guard: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FF 200D 2642 FE0F",
+    "char": "💂🏿‍♂️",
+    "name": "man guard: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FF 200D 2642",
+    "char": "💂🏿‍♂",
+    "name": "man guard: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 200D 2640 FE0F",
+    "char": "💂‍♀️",
+    "name": "woman guard",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 200D 2640",
+    "char": "💂‍♀",
+    "name": "woman guard",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FB 200D 2640 FE0F",
+    "char": "💂🏻‍♀️",
+    "name": "woman guard: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FB 200D 2640",
+    "char": "💂🏻‍♀",
+    "name": "woman guard: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FC 200D 2640 FE0F",
+    "char": "💂🏼‍♀️",
+    "name": "woman guard: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FC 200D 2640",
+    "char": "💂🏼‍♀",
+    "name": "woman guard: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FD 200D 2640 FE0F",
+    "char": "💂🏽‍♀️",
+    "name": "woman guard: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FD 200D 2640",
+    "char": "💂🏽‍♀",
+    "name": "woman guard: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FE 200D 2640 FE0F",
+    "char": "💂🏾‍♀️",
+    "name": "woman guard: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FE 200D 2640",
+    "char": "💂🏾‍♀",
+    "name": "woman guard: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FF 200D 2640 FE0F",
+    "char": "💂🏿‍♀️",
+    "name": "woman guard: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F482 1F3FF 200D 2640",
+    "char": "💂🏿‍♀",
+    "name": "woman guard: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F977",
+    "char": "🥷",
+    "name": "ninja",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F977 1F3FB",
+    "char": "🥷🏻",
+    "name": "ninja: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F977 1F3FC",
+    "char": "🥷🏼",
+    "name": "ninja: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F977 1F3FD",
+    "char": "🥷🏽",
+    "name": "ninja: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F977 1F3FE",
+    "char": "🥷🏾",
+    "name": "ninja: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F977 1F3FF",
+    "char": "🥷🏿",
+    "name": "ninja: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477",
+    "char": "👷",
+    "name": "construction worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FB",
+    "char": "👷🏻",
+    "name": "construction worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FC",
+    "char": "👷🏼",
+    "name": "construction worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FD",
+    "char": "👷🏽",
+    "name": "construction worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FE",
+    "char": "👷🏾",
+    "name": "construction worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FF",
+    "char": "👷🏿",
+    "name": "construction worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 200D 2642 FE0F",
+    "char": "👷‍♂️",
+    "name": "man construction worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 200D 2642",
+    "char": "👷‍♂",
+    "name": "man construction worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FB 200D 2642 FE0F",
+    "char": "👷🏻‍♂️",
+    "name": "man construction worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FB 200D 2642",
+    "char": "👷🏻‍♂",
+    "name": "man construction worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FC 200D 2642 FE0F",
+    "char": "👷🏼‍♂️",
+    "name": "man construction worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FC 200D 2642",
+    "char": "👷🏼‍♂",
+    "name": "man construction worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FD 200D 2642 FE0F",
+    "char": "👷🏽‍♂️",
+    "name": "man construction worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FD 200D 2642",
+    "char": "👷🏽‍♂",
+    "name": "man construction worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FE 200D 2642 FE0F",
+    "char": "👷🏾‍♂️",
+    "name": "man construction worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FE 200D 2642",
+    "char": "👷🏾‍♂",
+    "name": "man construction worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FF 200D 2642 FE0F",
+    "char": "👷🏿‍♂️",
+    "name": "man construction worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FF 200D 2642",
+    "char": "👷🏿‍♂",
+    "name": "man construction worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 200D 2640 FE0F",
+    "char": "👷‍♀️",
+    "name": "woman construction worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 200D 2640",
+    "char": "👷‍♀",
+    "name": "woman construction worker",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FB 200D 2640 FE0F",
+    "char": "👷🏻‍♀️",
+    "name": "woman construction worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FB 200D 2640",
+    "char": "👷🏻‍♀",
+    "name": "woman construction worker: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FC 200D 2640 FE0F",
+    "char": "👷🏼‍♀️",
+    "name": "woman construction worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FC 200D 2640",
+    "char": "👷🏼‍♀",
+    "name": "woman construction worker: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FD 200D 2640 FE0F",
+    "char": "👷🏽‍♀️",
+    "name": "woman construction worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FD 200D 2640",
+    "char": "👷🏽‍♀",
+    "name": "woman construction worker: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FE 200D 2640 FE0F",
+    "char": "👷🏾‍♀️",
+    "name": "woman construction worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FE 200D 2640",
+    "char": "👷🏾‍♀",
+    "name": "woman construction worker: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FF 200D 2640 FE0F",
+    "char": "👷🏿‍♀️",
+    "name": "woman construction worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F477 1F3FF 200D 2640",
+    "char": "👷🏿‍♀",
+    "name": "woman construction worker: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F934",
+    "char": "🤴",
+    "name": "prince",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F934 1F3FB",
+    "char": "🤴🏻",
+    "name": "prince: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F934 1F3FC",
+    "char": "🤴🏼",
+    "name": "prince: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F934 1F3FD",
+    "char": "🤴🏽",
+    "name": "prince: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F934 1F3FE",
+    "char": "🤴🏾",
+    "name": "prince: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F934 1F3FF",
+    "char": "🤴🏿",
+    "name": "prince: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F478",
+    "char": "👸",
+    "name": "princess",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F478 1F3FB",
+    "char": "👸🏻",
+    "name": "princess: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F478 1F3FC",
+    "char": "👸🏼",
+    "name": "princess: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F478 1F3FD",
+    "char": "👸🏽",
+    "name": "princess: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F478 1F3FE",
+    "char": "👸🏾",
+    "name": "princess: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F478 1F3FF",
+    "char": "👸🏿",
+    "name": "princess: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473",
+    "char": "👳",
+    "name": "person wearing turban",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FB",
+    "char": "👳🏻",
+    "name": "person wearing turban: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FC",
+    "char": "👳🏼",
+    "name": "person wearing turban: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FD",
+    "char": "👳🏽",
+    "name": "person wearing turban: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FE",
+    "char": "👳🏾",
+    "name": "person wearing turban: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FF",
+    "char": "👳🏿",
+    "name": "person wearing turban: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 200D 2642 FE0F",
+    "char": "👳‍♂️",
+    "name": "man wearing turban",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 200D 2642",
+    "char": "👳‍♂",
+    "name": "man wearing turban",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FB 200D 2642 FE0F",
+    "char": "👳🏻‍♂️",
+    "name": "man wearing turban: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FB 200D 2642",
+    "char": "👳🏻‍♂",
+    "name": "man wearing turban: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FC 200D 2642 FE0F",
+    "char": "👳🏼‍♂️",
+    "name": "man wearing turban: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FC 200D 2642",
+    "char": "👳🏼‍♂",
+    "name": "man wearing turban: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FD 200D 2642 FE0F",
+    "char": "👳🏽‍♂️",
+    "name": "man wearing turban: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FD 200D 2642",
+    "char": "👳🏽‍♂",
+    "name": "man wearing turban: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FE 200D 2642 FE0F",
+    "char": "👳🏾‍♂️",
+    "name": "man wearing turban: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FE 200D 2642",
+    "char": "👳🏾‍♂",
+    "name": "man wearing turban: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FF 200D 2642 FE0F",
+    "char": "👳🏿‍♂️",
+    "name": "man wearing turban: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FF 200D 2642",
+    "char": "👳🏿‍♂",
+    "name": "man wearing turban: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 200D 2640 FE0F",
+    "char": "👳‍♀️",
+    "name": "woman wearing turban",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 200D 2640",
+    "char": "👳‍♀",
+    "name": "woman wearing turban",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FB 200D 2640 FE0F",
+    "char": "👳🏻‍♀️",
+    "name": "woman wearing turban: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FB 200D 2640",
+    "char": "👳🏻‍♀",
+    "name": "woman wearing turban: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FC 200D 2640 FE0F",
+    "char": "👳🏼‍♀️",
+    "name": "woman wearing turban: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FC 200D 2640",
+    "char": "👳🏼‍♀",
+    "name": "woman wearing turban: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FD 200D 2640 FE0F",
+    "char": "👳🏽‍♀️",
+    "name": "woman wearing turban: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FD 200D 2640",
+    "char": "👳🏽‍♀",
+    "name": "woman wearing turban: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FE 200D 2640 FE0F",
+    "char": "👳🏾‍♀️",
+    "name": "woman wearing turban: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FE 200D 2640",
+    "char": "👳🏾‍♀",
+    "name": "woman wearing turban: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FF 200D 2640 FE0F",
+    "char": "👳🏿‍♀️",
+    "name": "woman wearing turban: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F473 1F3FF 200D 2640",
+    "char": "👳🏿‍♀",
+    "name": "woman wearing turban: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F472",
+    "char": "👲",
+    "name": "person with skullcap",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F472 1F3FB",
+    "char": "👲🏻",
+    "name": "person with skullcap: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F472 1F3FC",
+    "char": "👲🏼",
+    "name": "person with skullcap: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F472 1F3FD",
+    "char": "👲🏽",
+    "name": "person with skullcap: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F472 1F3FE",
+    "char": "👲🏾",
+    "name": "person with skullcap: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F472 1F3FF",
+    "char": "👲🏿",
+    "name": "person with skullcap: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D5",
+    "char": "🧕",
+    "name": "woman with headscarf",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D5 1F3FB",
+    "char": "🧕🏻",
+    "name": "woman with headscarf: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D5 1F3FC",
+    "char": "🧕🏼",
+    "name": "woman with headscarf: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D5 1F3FD",
+    "char": "🧕🏽",
+    "name": "woman with headscarf: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D5 1F3FE",
+    "char": "🧕🏾",
+    "name": "woman with headscarf: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D5 1F3FF",
+    "char": "🧕🏿",
+    "name": "woman with headscarf: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935",
+    "char": "🤵",
+    "name": "person in tuxedo",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FB",
+    "char": "🤵🏻",
+    "name": "person in tuxedo: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FC",
+    "char": "🤵🏼",
+    "name": "person in tuxedo: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FD",
+    "char": "🤵🏽",
+    "name": "person in tuxedo: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FE",
+    "char": "🤵🏾",
+    "name": "person in tuxedo: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FF",
+    "char": "🤵🏿",
+    "name": "person in tuxedo: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 200D 2642 FE0F",
+    "char": "🤵‍♂️",
+    "name": "man in tuxedo",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 200D 2642",
+    "char": "🤵‍♂",
+    "name": "man in tuxedo",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FB 200D 2642 FE0F",
+    "char": "🤵🏻‍♂️",
+    "name": "man in tuxedo: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FB 200D 2642",
+    "char": "🤵🏻‍♂",
+    "name": "man in tuxedo: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FC 200D 2642 FE0F",
+    "char": "🤵🏼‍♂️",
+    "name": "man in tuxedo: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FC 200D 2642",
+    "char": "🤵🏼‍♂",
+    "name": "man in tuxedo: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FD 200D 2642 FE0F",
+    "char": "🤵🏽‍♂️",
+    "name": "man in tuxedo: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FD 200D 2642",
+    "char": "🤵🏽‍♂",
+    "name": "man in tuxedo: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FE 200D 2642 FE0F",
+    "char": "🤵🏾‍♂️",
+    "name": "man in tuxedo: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FE 200D 2642",
+    "char": "🤵🏾‍♂",
+    "name": "man in tuxedo: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FF 200D 2642 FE0F",
+    "char": "🤵🏿‍♂️",
+    "name": "man in tuxedo: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FF 200D 2642",
+    "char": "🤵🏿‍♂",
+    "name": "man in tuxedo: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 200D 2640 FE0F",
+    "char": "🤵‍♀️",
+    "name": "woman in tuxedo",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 200D 2640",
+    "char": "🤵‍♀",
+    "name": "woman in tuxedo",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FB 200D 2640 FE0F",
+    "char": "🤵🏻‍♀️",
+    "name": "woman in tuxedo: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FB 200D 2640",
+    "char": "🤵🏻‍♀",
+    "name": "woman in tuxedo: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FC 200D 2640 FE0F",
+    "char": "🤵🏼‍♀️",
+    "name": "woman in tuxedo: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FC 200D 2640",
+    "char": "🤵🏼‍♀",
+    "name": "woman in tuxedo: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FD 200D 2640 FE0F",
+    "char": "🤵🏽‍♀️",
+    "name": "woman in tuxedo: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FD 200D 2640",
+    "char": "🤵🏽‍♀",
+    "name": "woman in tuxedo: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FE 200D 2640 FE0F",
+    "char": "🤵🏾‍♀️",
+    "name": "woman in tuxedo: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FE 200D 2640",
+    "char": "🤵🏾‍♀",
+    "name": "woman in tuxedo: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FF 200D 2640 FE0F",
+    "char": "🤵🏿‍♀️",
+    "name": "woman in tuxedo: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F935 1F3FF 200D 2640",
+    "char": "🤵🏿‍♀",
+    "name": "woman in tuxedo: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470",
+    "char": "👰",
+    "name": "person with veil",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FB",
+    "char": "👰🏻",
+    "name": "person with veil: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FC",
+    "char": "👰🏼",
+    "name": "person with veil: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FD",
+    "char": "👰🏽",
+    "name": "person with veil: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FE",
+    "char": "👰🏾",
+    "name": "person with veil: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FF",
+    "char": "👰🏿",
+    "name": "person with veil: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 200D 2642 FE0F",
+    "char": "👰‍♂️",
+    "name": "man with veil",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 200D 2642",
+    "char": "👰‍♂",
+    "name": "man with veil",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FB 200D 2642 FE0F",
+    "char": "👰🏻‍♂️",
+    "name": "man with veil: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FB 200D 2642",
+    "char": "👰🏻‍♂",
+    "name": "man with veil: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FC 200D 2642 FE0F",
+    "char": "👰🏼‍♂️",
+    "name": "man with veil: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FC 200D 2642",
+    "char": "👰🏼‍♂",
+    "name": "man with veil: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FD 200D 2642 FE0F",
+    "char": "👰🏽‍♂️",
+    "name": "man with veil: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FD 200D 2642",
+    "char": "👰🏽‍♂",
+    "name": "man with veil: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FE 200D 2642 FE0F",
+    "char": "👰🏾‍♂️",
+    "name": "man with veil: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FE 200D 2642",
+    "char": "👰🏾‍♂",
+    "name": "man with veil: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FF 200D 2642 FE0F",
+    "char": "👰🏿‍♂️",
+    "name": "man with veil: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FF 200D 2642",
+    "char": "👰🏿‍♂",
+    "name": "man with veil: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 200D 2640 FE0F",
+    "char": "👰‍♀️",
+    "name": "woman with veil",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 200D 2640",
+    "char": "👰‍♀",
+    "name": "woman with veil",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FB 200D 2640 FE0F",
+    "char": "👰🏻‍♀️",
+    "name": "woman with veil: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FB 200D 2640",
+    "char": "👰🏻‍♀",
+    "name": "woman with veil: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FC 200D 2640 FE0F",
+    "char": "👰🏼‍♀️",
+    "name": "woman with veil: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FC 200D 2640",
+    "char": "👰🏼‍♀",
+    "name": "woman with veil: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FD 200D 2640 FE0F",
+    "char": "👰🏽‍♀️",
+    "name": "woman with veil: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FD 200D 2640",
+    "char": "👰🏽‍♀",
+    "name": "woman with veil: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FE 200D 2640 FE0F",
+    "char": "👰🏾‍♀️",
+    "name": "woman with veil: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FE 200D 2640",
+    "char": "👰🏾‍♀",
+    "name": "woman with veil: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FF 200D 2640 FE0F",
+    "char": "👰🏿‍♀️",
+    "name": "woman with veil: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F470 1F3FF 200D 2640",
+    "char": "👰🏿‍♀",
+    "name": "woman with veil: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F930",
+    "char": "🤰",
+    "name": "pregnant woman",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F930 1F3FB",
+    "char": "🤰🏻",
+    "name": "pregnant woman: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F930 1F3FC",
+    "char": "🤰🏼",
+    "name": "pregnant woman: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F930 1F3FD",
+    "char": "🤰🏽",
+    "name": "pregnant woman: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F930 1F3FE",
+    "char": "🤰🏾",
+    "name": "pregnant woman: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F930 1F3FF",
+    "char": "🤰🏿",
+    "name": "pregnant woman: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F931",
+    "char": "🤱",
+    "name": "breast-feeding",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F931 1F3FB",
+    "char": "🤱🏻",
+    "name": "breast-feeding: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F931 1F3FC",
+    "char": "🤱🏼",
+    "name": "breast-feeding: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F931 1F3FD",
+    "char": "🤱🏽",
+    "name": "breast-feeding: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F931 1F3FE",
+    "char": "🤱🏾",
+    "name": "breast-feeding: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F931 1F3FF",
+    "char": "🤱🏿",
+    "name": "breast-feeding: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 200D 1F37C",
+    "char": "👩‍🍼",
+    "name": "woman feeding baby",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F37C",
+    "char": "👩🏻‍🍼",
+    "name": "woman feeding baby: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F37C",
+    "char": "👩🏼‍🍼",
+    "name": "woman feeding baby: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F37C",
+    "char": "👩🏽‍🍼",
+    "name": "woman feeding baby: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F37C",
+    "char": "👩🏾‍🍼",
+    "name": "woman feeding baby: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F37C",
+    "char": "👩🏿‍🍼",
+    "name": "woman feeding baby: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 200D 1F37C",
+    "char": "👨‍🍼",
+    "name": "man feeding baby",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F37C",
+    "char": "👨🏻‍🍼",
+    "name": "man feeding baby: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F37C",
+    "char": "👨🏼‍🍼",
+    "name": "man feeding baby: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F37C",
+    "char": "👨🏽‍🍼",
+    "name": "man feeding baby: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F37C",
+    "char": "👨🏾‍🍼",
+    "name": "man feeding baby: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F37C",
+    "char": "👨🏿‍🍼",
+    "name": "man feeding baby: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 200D 1F37C",
+    "char": "🧑‍🍼",
+    "name": "person feeding baby",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FB 200D 1F37C",
+    "char": "🧑🏻‍🍼",
+    "name": "person feeding baby: light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FC 200D 1F37C",
+    "char": "🧑🏼‍🍼",
+    "name": "person feeding baby: medium-light skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FD 200D 1F37C",
+    "char": "🧑🏽‍🍼",
+    "name": "person feeding baby: medium skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FE 200D 1F37C",
+    "char": "🧑🏾‍🍼",
+    "name": "person feeding baby: medium-dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F9D1 1F3FF 200D 1F37C",
+    "char": "🧑🏿‍🍼",
+    "name": "person feeding baby: dark skin tone",
+    "category": "People & Body (person-role)",
+    "group": "People & Body",
+    "subgroup": "person-role"
+  },
+  {
+    "codes": "1F47C",
+    "char": "👼",
+    "name": "baby angel",
+    "category": "People & Body (person-fantasy)",
+    "group": "People & Body",
+    "subgroup": "person-fantasy"
+  },
+  {
+    "codes": "1F47C 1F3FB",
+    "char": "👼🏻",
+    "name": "baby angel: light skin tone",
+    "category": "People & Body (person-fantasy)",
+    "group": "People & Body",
+    "subgroup": "person-fantasy"
+  },
+  {
+    "codes": "1F47C 1F3FC",
+    "char": "👼🏼",
+    "name": "baby angel: medium-light skin tone",
+    "category": "People & Body (person-fantasy)",
+    "group": "People & Body",
+    "subgroup": "person-fantasy"
+  },
+  {
+    "codes": "1F47C 1F3FD",
+    "char": "👼🏽",
+    "name": "baby angel: medium skin tone",
+    "category": "People & Body (person-fantasy)",
+    "group": "People & Body",
+    "subgroup": "person-fantasy"
+  },
+  {
+    "codes": "1F47C 1F3FE",
+    "char": "👼🏾",
+    "name": "baby angel: medium-dark skin tone",
+    "category": "People & Body (person-fantasy)",
+    "group": "People & Body",
+    "subgroup": "person-fantasy"
+  },
+  {
+    "codes": "1F47C 1F3FF",
+    "char": "👼🏿",
+    "name": "baby angel: dark skin tone",
+    "category": "People & Body (person-fantasy)",
+    "group": "People & Body",
+    "subgroup": "person-fantasy"
+  }]

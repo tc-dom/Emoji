@@ -1,0 +1,2021 @@
+[
+  {
+    "codes": "#2",
+    "char": "People & Body",
+    "name": "Header",
+    "category": "People & Body (hand-fingers-open)",
+    "group": "People & Body",
+    "subgroup": "hand-fingers-open"
+  },
+    {
+      "codes": "1F44B",
+      "char": "👋",
+      "name": "waving hand",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F44B 1F3FB",
+      "char": "👋🏻",
+      "name": "waving hand: light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F44B 1F3FC",
+      "char": "👋🏼",
+      "name": "waving hand: medium-light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F44B 1F3FD",
+      "char": "👋🏽",
+      "name": "waving hand: medium skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F44B 1F3FE",
+      "char": "👋🏾",
+      "name": "waving hand: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F44B 1F3FF",
+      "char": "👋🏿",
+      "name": "waving hand: dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F91A",
+      "char": "🤚",
+      "name": "raised back of hand",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F91A 1F3FB",
+      "char": "🤚🏻",
+      "name": "raised back of hand: light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F91A 1F3FC",
+      "char": "🤚🏼",
+      "name": "raised back of hand: medium-light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F91A 1F3FD",
+      "char": "🤚🏽",
+      "name": "raised back of hand: medium skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F91A 1F3FE",
+      "char": "🤚🏾",
+      "name": "raised back of hand: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F91A 1F3FF",
+      "char": "🤚🏿",
+      "name": "raised back of hand: dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F590 FE0F",
+      "char": "🖐️",
+      "name": "hand with fingers splayed",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F590",
+      "char": "🖐",
+      "name": "hand with fingers splayed",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F590 1F3FB",
+      "char": "🖐🏻",
+      "name": "hand with fingers splayed: light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F590 1F3FC",
+      "char": "🖐🏼",
+      "name": "hand with fingers splayed: medium-light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F590 1F3FD",
+      "char": "🖐🏽",
+      "name": "hand with fingers splayed: medium skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F590 1F3FE",
+      "char": "🖐🏾",
+      "name": "hand with fingers splayed: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F590 1F3FF",
+      "char": "🖐🏿",
+      "name": "hand with fingers splayed: dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "270B",
+      "char": "✋",
+      "name": "raised hand",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "270B 1F3FB",
+      "char": "✋🏻",
+      "name": "raised hand: light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "270B 1F3FC",
+      "char": "✋🏼",
+      "name": "raised hand: medium-light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "270B 1F3FD",
+      "char": "✋🏽",
+      "name": "raised hand: medium skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "270B 1F3FE",
+      "char": "✋🏾",
+      "name": "raised hand: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "270B 1F3FF",
+      "char": "✋🏿",
+      "name": "raised hand: dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F596",
+      "char": "🖖",
+      "name": "vulcan salute",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F596 1F3FB",
+      "char": "🖖🏻",
+      "name": "vulcan salute: light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F596 1F3FC",
+      "char": "🖖🏼",
+      "name": "vulcan salute: medium-light skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F596 1F3FD",
+      "char": "🖖🏽",
+      "name": "vulcan salute: medium skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F596 1F3FE",
+      "char": "🖖🏾",
+      "name": "vulcan salute: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F596 1F3FF",
+      "char": "🖖🏿",
+      "name": "vulcan salute: dark skin tone",
+      "category": "People & Body (hand-fingers-open)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    {
+      "codes": "1F44C",
+      "char": "👌",
+      "name": "OK hand",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F44C 1F3FB",
+      "char": "👌🏻",
+      "name": "OK hand: light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F44C 1F3FC",
+      "char": "👌🏼",
+      "name": "OK hand: medium-light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F44C 1F3FD",
+      "char": "👌🏽",
+      "name": "OK hand: medium skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F44C 1F3FE",
+      "char": "👌🏾",
+      "name": "OK hand: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F44C 1F3FF",
+      "char": "👌🏿",
+      "name": "OK hand: dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90C",
+      "char": "🤌",
+      "name": "pinched fingers",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90C 1F3FB",
+      "char": "🤌🏻",
+      "name": "pinched fingers: light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90C 1F3FC",
+      "char": "🤌🏼",
+      "name": "pinched fingers: medium-light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90C 1F3FD",
+      "char": "🤌🏽",
+      "name": "pinched fingers: medium skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90C 1F3FE",
+      "char": "🤌🏾",
+      "name": "pinched fingers: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90C 1F3FF",
+      "char": "🤌🏿",
+      "name": "pinched fingers: dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90F",
+      "char": "🤏",
+      "name": "pinching hand",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90F 1F3FB",
+      "char": "🤏🏻",
+      "name": "pinching hand: light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90F 1F3FC",
+      "char": "🤏🏼",
+      "name": "pinching hand: medium-light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90F 1F3FD",
+      "char": "🤏🏽",
+      "name": "pinching hand: medium skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90F 1F3FE",
+      "char": "🤏🏾",
+      "name": "pinching hand: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F90F 1F3FF",
+      "char": "🤏🏿",
+      "name": "pinching hand: dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "270C FE0F",
+      "char": "✌️",
+      "name": "victory hand",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "270C",
+      "char": "✌",
+      "name": "victory hand",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "270C 1F3FB",
+      "char": "✌🏻",
+      "name": "victory hand: light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "270C 1F3FC",
+      "char": "✌🏼",
+      "name": "victory hand: medium-light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "270C 1F3FD",
+      "char": "✌🏽",
+      "name": "victory hand: medium skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "270C 1F3FE",
+      "char": "✌🏾",
+      "name": "victory hand: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "270C 1F3FF",
+      "char": "✌🏿",
+      "name": "victory hand: dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91E",
+      "char": "🤞",
+      "name": "crossed fingers",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91E 1F3FB",
+      "char": "🤞🏻",
+      "name": "crossed fingers: light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91E 1F3FC",
+      "char": "🤞🏼",
+      "name": "crossed fingers: medium-light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91E 1F3FD",
+      "char": "🤞🏽",
+      "name": "crossed fingers: medium skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91E 1F3FE",
+      "char": "🤞🏾",
+      "name": "crossed fingers: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91E 1F3FF",
+      "char": "🤞🏿",
+      "name": "crossed fingers: dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91F",
+      "char": "🤟",
+      "name": "love-you gesture",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91F 1F3FB",
+      "char": "🤟🏻",
+      "name": "love-you gesture: light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91F 1F3FC",
+      "char": "🤟🏼",
+      "name": "love-you gesture: medium-light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91F 1F3FD",
+      "char": "🤟🏽",
+      "name": "love-you gesture: medium skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91F 1F3FE",
+      "char": "🤟🏾",
+      "name": "love-you gesture: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F91F 1F3FF",
+      "char": "🤟🏿",
+      "name": "love-you gesture: dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F918",
+      "char": "🤘",
+      "name": "sign of the horns",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F918 1F3FB",
+      "char": "🤘🏻",
+      "name": "sign of the horns: light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F918 1F3FC",
+      "char": "🤘🏼",
+      "name": "sign of the horns: medium-light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F918 1F3FD",
+      "char": "🤘🏽",
+      "name": "sign of the horns: medium skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F918 1F3FE",
+      "char": "🤘🏾",
+      "name": "sign of the horns: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F918 1F3FF",
+      "char": "🤘🏿",
+      "name": "sign of the horns: dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F919",
+      "char": "🤙",
+      "name": "call me hand",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F919 1F3FB",
+      "char": "🤙🏻",
+      "name": "call me hand: light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F919 1F3FC",
+      "char": "🤙🏼",
+      "name": "call me hand: medium-light skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F919 1F3FD",
+      "char": "🤙🏽",
+      "name": "call me hand: medium skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F919 1F3FE",
+      "char": "🤙🏾",
+      "name": "call me hand: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F919 1F3FF",
+      "char": "🤙🏿",
+      "name": "call me hand: dark skin tone",
+      "category": "People & Body (hand-fingers-partial)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    {
+      "codes": "1F448",
+      "char": "👈",
+      "name": "backhand index pointing left",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F448 1F3FB",
+      "char": "👈🏻",
+      "name": "backhand index pointing left: light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F448 1F3FC",
+      "char": "👈🏼",
+      "name": "backhand index pointing left: medium-light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F448 1F3FD",
+      "char": "👈🏽",
+      "name": "backhand index pointing left: medium skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F448 1F3FE",
+      "char": "👈🏾",
+      "name": "backhand index pointing left: medium-dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F448 1F3FF",
+      "char": "👈🏿",
+      "name": "backhand index pointing left: dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F449",
+      "char": "👉",
+      "name": "backhand index pointing right",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F449 1F3FB",
+      "char": "👉🏻",
+      "name": "backhand index pointing right: light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F449 1F3FC",
+      "char": "👉🏼",
+      "name": "backhand index pointing right: medium-light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F449 1F3FD",
+      "char": "👉🏽",
+      "name": "backhand index pointing right: medium skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F449 1F3FE",
+      "char": "👉🏾",
+      "name": "backhand index pointing right: medium-dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F449 1F3FF",
+      "char": "👉🏿",
+      "name": "backhand index pointing right: dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F446",
+      "char": "👆",
+      "name": "backhand index pointing up",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F446 1F3FB",
+      "char": "👆🏻",
+      "name": "backhand index pointing up: light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F446 1F3FC",
+      "char": "👆🏼",
+      "name": "backhand index pointing up: medium-light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F446 1F3FD",
+      "char": "👆🏽",
+      "name": "backhand index pointing up: medium skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F446 1F3FE",
+      "char": "👆🏾",
+      "name": "backhand index pointing up: medium-dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F446 1F3FF",
+      "char": "👆🏿",
+      "name": "backhand index pointing up: dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F595",
+      "char": "🖕",
+      "name": "middle finger",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F595 1F3FB",
+      "char": "🖕🏻",
+      "name": "middle finger: light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F595 1F3FC",
+      "char": "🖕🏼",
+      "name": "middle finger: medium-light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F595 1F3FD",
+      "char": "🖕🏽",
+      "name": "middle finger: medium skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F595 1F3FE",
+      "char": "🖕🏾",
+      "name": "middle finger: medium-dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F595 1F3FF",
+      "char": "🖕🏿",
+      "name": "middle finger: dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F447",
+      "char": "👇",
+      "name": "backhand index pointing down",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F447 1F3FB",
+      "char": "👇🏻",
+      "name": "backhand index pointing down: light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F447 1F3FC",
+      "char": "👇🏼",
+      "name": "backhand index pointing down: medium-light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F447 1F3FD",
+      "char": "👇🏽",
+      "name": "backhand index pointing down: medium skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F447 1F3FE",
+      "char": "👇🏾",
+      "name": "backhand index pointing down: medium-dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F447 1F3FF",
+      "char": "👇🏿",
+      "name": "backhand index pointing down: dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "261D FE0F",
+      "char": "☝️",
+      "name": "index pointing up",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "261D",
+      "char": "☝",
+      "name": "index pointing up",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "261D 1F3FB",
+      "char": "☝🏻",
+      "name": "index pointing up: light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "261D 1F3FC",
+      "char": "☝🏼",
+      "name": "index pointing up: medium-light skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "261D 1F3FD",
+      "char": "☝🏽",
+      "name": "index pointing up: medium skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "261D 1F3FE",
+      "char": "☝🏾",
+      "name": "index pointing up: medium-dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "261D 1F3FF",
+      "char": "☝🏿",
+      "name": "index pointing up: dark skin tone",
+      "category": "People & Body (hand-single-finger)",
+      "group": "People & Body",
+      "subgroup": "hand-single-finger"
+    },
+    {
+      "codes": "1F44D",
+      "char": "👍",
+      "name": "thumbs up",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44D 1F3FB",
+      "char": "👍🏻",
+      "name": "thumbs up: light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44D 1F3FC",
+      "char": "👍🏼",
+      "name": "thumbs up: medium-light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44D 1F3FD",
+      "char": "👍🏽",
+      "name": "thumbs up: medium skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44D 1F3FE",
+      "char": "👍🏾",
+      "name": "thumbs up: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44D 1F3FF",
+      "char": "👍🏿",
+      "name": "thumbs up: dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44E",
+      "char": "👎",
+      "name": "thumbs down",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44E 1F3FB",
+      "char": "👎🏻",
+      "name": "thumbs down: light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44E 1F3FC",
+      "char": "👎🏼",
+      "name": "thumbs down: medium-light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44E 1F3FD",
+      "char": "👎🏽",
+      "name": "thumbs down: medium skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44E 1F3FE",
+      "char": "👎🏾",
+      "name": "thumbs down: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44E 1F3FF",
+      "char": "👎🏿",
+      "name": "thumbs down: dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "270A",
+      "char": "✊",
+      "name": "raised fist",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "270A 1F3FB",
+      "char": "✊🏻",
+      "name": "raised fist: light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "270A 1F3FC",
+      "char": "✊🏼",
+      "name": "raised fist: medium-light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "270A 1F3FD",
+      "char": "✊🏽",
+      "name": "raised fist: medium skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "270A 1F3FE",
+      "char": "✊🏾",
+      "name": "raised fist: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "270A 1F3FF",
+      "char": "✊🏿",
+      "name": "raised fist: dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44A",
+      "char": "👊",
+      "name": "oncoming fist",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44A 1F3FB",
+      "char": "👊🏻",
+      "name": "oncoming fist: light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44A 1F3FC",
+      "char": "👊🏼",
+      "name": "oncoming fist: medium-light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44A 1F3FD",
+      "char": "👊🏽",
+      "name": "oncoming fist: medium skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44A 1F3FE",
+      "char": "👊🏾",
+      "name": "oncoming fist: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44A 1F3FF",
+      "char": "👊🏿",
+      "name": "oncoming fist: dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91B",
+      "char": "🤛",
+      "name": "left-facing fist",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91B 1F3FB",
+      "char": "🤛🏻",
+      "name": "left-facing fist: light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91B 1F3FC",
+      "char": "🤛🏼",
+      "name": "left-facing fist: medium-light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91B 1F3FD",
+      "char": "🤛🏽",
+      "name": "left-facing fist: medium skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91B 1F3FE",
+      "char": "🤛🏾",
+      "name": "left-facing fist: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91B 1F3FF",
+      "char": "🤛🏿",
+      "name": "left-facing fist: dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91C",
+      "char": "🤜",
+      "name": "right-facing fist",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91C 1F3FB",
+      "char": "🤜🏻",
+      "name": "right-facing fist: light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91C 1F3FC",
+      "char": "🤜🏼",
+      "name": "right-facing fist: medium-light skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91C 1F3FD",
+      "char": "🤜🏽",
+      "name": "right-facing fist: medium skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91C 1F3FE",
+      "char": "🤜🏾",
+      "name": "right-facing fist: medium-dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F91C 1F3FF",
+      "char": "🤜🏿",
+      "name": "right-facing fist: dark skin tone",
+      "category": "People & Body (hand-fingers-closed)",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-closed"
+    },
+    {
+      "codes": "1F44F",
+      "char": "👏",
+      "name": "clapping hands",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F44F 1F3FB",
+      "char": "👏🏻",
+      "name": "clapping hands: light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F44F 1F3FC",
+      "char": "👏🏼",
+      "name": "clapping hands: medium-light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F44F 1F3FD",
+      "char": "👏🏽",
+      "name": "clapping hands: medium skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F44F 1F3FE",
+      "char": "👏🏾",
+      "name": "clapping hands: medium-dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F44F 1F3FF",
+      "char": "👏🏿",
+      "name": "clapping hands: dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64C",
+      "char": "🙌",
+      "name": "raising hands",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64C 1F3FB",
+      "char": "🙌🏻",
+      "name": "raising hands: light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64C 1F3FC",
+      "char": "🙌🏼",
+      "name": "raising hands: medium-light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64C 1F3FD",
+      "char": "🙌🏽",
+      "name": "raising hands: medium skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64C 1F3FE",
+      "char": "🙌🏾",
+      "name": "raising hands: medium-dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64C 1F3FF",
+      "char": "🙌🏿",
+      "name": "raising hands: dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F450",
+      "char": "👐",
+      "name": "open hands",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F450 1F3FB",
+      "char": "👐🏻",
+      "name": "open hands: light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F450 1F3FC",
+      "char": "👐🏼",
+      "name": "open hands: medium-light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F450 1F3FD",
+      "char": "👐🏽",
+      "name": "open hands: medium skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F450 1F3FE",
+      "char": "👐🏾",
+      "name": "open hands: medium-dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F450 1F3FF",
+      "char": "👐🏿",
+      "name": "open hands: dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F932",
+      "char": "🤲",
+      "name": "palms up together",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F932 1F3FB",
+      "char": "🤲🏻",
+      "name": "palms up together: light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F932 1F3FC",
+      "char": "🤲🏼",
+      "name": "palms up together: medium-light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F932 1F3FD",
+      "char": "🤲🏽",
+      "name": "palms up together: medium skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F932 1F3FE",
+      "char": "🤲🏾",
+      "name": "palms up together: medium-dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F932 1F3FF",
+      "char": "🤲🏿",
+      "name": "palms up together: dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F91D",
+      "char": "🤝",
+      "name": "handshake",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64F",
+      "char": "🙏",
+      "name": "folded hands",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64F 1F3FB",
+      "char": "🙏🏻",
+      "name": "folded hands: light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64F 1F3FC",
+      "char": "🙏🏼",
+      "name": "folded hands: medium-light skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64F 1F3FD",
+      "char": "🙏🏽",
+      "name": "folded hands: medium skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64F 1F3FE",
+      "char": "🙏🏾",
+      "name": "folded hands: medium-dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "1F64F 1F3FF",
+      "char": "🙏🏿",
+      "name": "folded hands: dark skin tone",
+      "category": "People & Body (hands)",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    {
+      "codes": "270D FE0F",
+      "char": "✍️",
+      "name": "writing hand",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "270D",
+      "char": "✍",
+      "name": "writing hand",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "270D 1F3FB",
+      "char": "✍🏻",
+      "name": "writing hand: light skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "270D 1F3FC",
+      "char": "✍🏼",
+      "name": "writing hand: medium-light skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "270D 1F3FD",
+      "char": "✍🏽",
+      "name": "writing hand: medium skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "270D 1F3FE",
+      "char": "✍🏾",
+      "name": "writing hand: medium-dark skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "270D 1F3FF",
+      "char": "✍🏿",
+      "name": "writing hand: dark skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F485",
+      "char": "💅",
+      "name": "nail polish",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F485 1F3FB",
+      "char": "💅🏻",
+      "name": "nail polish: light skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F485 1F3FC",
+      "char": "💅🏼",
+      "name": "nail polish: medium-light skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F485 1F3FD",
+      "char": "💅🏽",
+      "name": "nail polish: medium skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F485 1F3FE",
+      "char": "💅🏾",
+      "name": "nail polish: medium-dark skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F485 1F3FF",
+      "char": "💅🏿",
+      "name": "nail polish: dark skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F933",
+      "char": "🤳",
+      "name": "selfie",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F933 1F3FB",
+      "char": "🤳🏻",
+      "name": "selfie: light skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F933 1F3FC",
+      "char": "🤳🏼",
+      "name": "selfie: medium-light skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F933 1F3FD",
+      "char": "🤳🏽",
+      "name": "selfie: medium skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F933 1F3FE",
+      "char": "🤳🏾",
+      "name": "selfie: medium-dark skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F933 1F3FF",
+      "char": "🤳🏿",
+      "name": "selfie: dark skin tone",
+      "category": "People & Body (hand-prop)",
+      "group": "People & Body",
+      "subgroup": "hand-prop"
+    },
+    {
+      "codes": "1F4AA",
+      "char": "💪",
+      "name": "flexed biceps",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F4AA 1F3FB",
+      "char": "💪🏻",
+      "name": "flexed biceps: light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F4AA 1F3FC",
+      "char": "💪🏼",
+      "name": "flexed biceps: medium-light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F4AA 1F3FD",
+      "char": "💪🏽",
+      "name": "flexed biceps: medium skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F4AA 1F3FE",
+      "char": "💪🏾",
+      "name": "flexed biceps: medium-dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F4AA 1F3FF",
+      "char": "💪🏿",
+      "name": "flexed biceps: dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9BE",
+      "char": "🦾",
+      "name": "mechanical arm",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9BF",
+      "char": "🦿",
+      "name": "mechanical leg",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B5",
+      "char": "🦵",
+      "name": "leg",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B5 1F3FB",
+      "char": "🦵🏻",
+      "name": "leg: light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B5 1F3FC",
+      "char": "🦵🏼",
+      "name": "leg: medium-light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B5 1F3FD",
+      "char": "🦵🏽",
+      "name": "leg: medium skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B5 1F3FE",
+      "char": "🦵🏾",
+      "name": "leg: medium-dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B5 1F3FF",
+      "char": "🦵🏿",
+      "name": "leg: dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B6",
+      "char": "🦶",
+      "name": "foot",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B6 1F3FB",
+      "char": "🦶🏻",
+      "name": "foot: light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B6 1F3FC",
+      "char": "🦶🏼",
+      "name": "foot: medium-light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B6 1F3FD",
+      "char": "🦶🏽",
+      "name": "foot: medium skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B6 1F3FE",
+      "char": "🦶🏾",
+      "name": "foot: medium-dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B6 1F3FF",
+      "char": "🦶🏿",
+      "name": "foot: dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F442",
+      "char": "👂",
+      "name": "ear",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F442 1F3FB",
+      "char": "👂🏻",
+      "name": "ear: light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F442 1F3FC",
+      "char": "👂🏼",
+      "name": "ear: medium-light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F442 1F3FD",
+      "char": "👂🏽",
+      "name": "ear: medium skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F442 1F3FE",
+      "char": "👂🏾",
+      "name": "ear: medium-dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F442 1F3FF",
+      "char": "👂🏿",
+      "name": "ear: dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9BB",
+      "char": "🦻",
+      "name": "ear with hearing aid",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9BB 1F3FB",
+      "char": "🦻🏻",
+      "name": "ear with hearing aid: light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9BB 1F3FC",
+      "char": "🦻🏼",
+      "name": "ear with hearing aid: medium-light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9BB 1F3FD",
+      "char": "🦻🏽",
+      "name": "ear with hearing aid: medium skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9BB 1F3FE",
+      "char": "🦻🏾",
+      "name": "ear with hearing aid: medium-dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9BB 1F3FF",
+      "char": "🦻🏿",
+      "name": "ear with hearing aid: dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F443",
+      "char": "👃",
+      "name": "nose",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F443 1F3FB",
+      "char": "👃🏻",
+      "name": "nose: light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F443 1F3FC",
+      "char": "👃🏼",
+      "name": "nose: medium-light skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F443 1F3FD",
+      "char": "👃🏽",
+      "name": "nose: medium skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F443 1F3FE",
+      "char": "👃🏾",
+      "name": "nose: medium-dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F443 1F3FF",
+      "char": "👃🏿",
+      "name": "nose: dark skin tone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9E0",
+      "char": "🧠",
+      "name": "brain",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1FAC0",
+      "char": "🫀",
+      "name": "anatomical heart",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1FAC1",
+      "char": "🫁",
+      "name": "lungs",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B7",
+      "char": "🦷",
+      "name": "tooth",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F9B4",
+      "char": "🦴",
+      "name": "bone",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F440",
+      "char": "👀",
+      "name": "eyes",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F441 FE0F",
+      "char": "👁️",
+      "name": "eye",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F441",
+      "char": "👁",
+      "name": "eye",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F445",
+      "char": "👅",
+      "name": "tongue",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    {
+      "codes": "1F444",
+      "char": "👄",
+      "name": "mouth",
+      "category": "People & Body (body-parts)",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    }
+    
+   
+    
+  ]
