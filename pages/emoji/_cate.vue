@@ -14,7 +14,7 @@
       </span>
     </p>
 
-    <v-btn @click="fetch()">Refresh Data</v-btn>
+  
   </div>
 </template>
 <script>
@@ -32,15 +32,15 @@ export default {
     $route: "fetch"
   },
   created() {
-    this.fetch(this.$route.params.cate);
+    this.fetch();
   },
 
   methods: {
-    async fetch(page) {
-    console.log(this.page);
-    
+    async fetch() {
+    console.log(this.$route.params.cate);
+      const page = this.$route.params.cate
       await Promise.all([
-        fetch("/emoji" + page + ".json").then(
+        fetch("/emoji/emoji" + page + ".json").then(
           (res) => (res.ok && res.json()) || Promise.reject(res)
         ),
       ]).then((data) => {

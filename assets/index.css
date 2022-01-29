@@ -1,0 +1,107 @@
+.stamp_digit {
+    height: 100%;
+    display: flex;
+    max-width: 1300px;
+    margin: auto;
+    overflow: hidden;
+    height: calc(100vh - 8rem);
+    height: calc(var(--vh, 1vh) * 100 - 9rem);
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px !important;
+  }
+  .un-bg{
+    background: none !important;
+  }
+  .tc_dom {
+    max-width: 1200px;
+    width: 100%;
+    margin: 10px auto;
+    border-radius: 15px;
+    overflow: auto;
+    padding: 5px;
+    height: calc(100vh - 8rem);
+    height: calc(var(--vh, 1vh) * 100 - 9rem);
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+  }
+  li:first-letter {
+    text-transform: uppercase;
+  }
+  .loading {
+    display: inline-block;
+    min-width: 1.5rem;
+    height: 1.5rem;
+    border: 4px solid rgba(9, 133, 81, 0.705);
+    border-radius: 50%;
+    border-top-color: #158876;
+    animation: spin 1s ease-in-out infinite;
+  }
+  .list {
+    width: 100%;
+  }
+  .emoji {
+    font-size: 60px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    min-width: 80px;
+  }
+  
+  .name-header {
+    text-align: left;
+    
+    padding: 2px 0 0 12px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: -1px;
+  }
+  .emojo {
+    min-width: 122px;
+  }
+  @keyframes spin {
+    to {
+      -webkit-transform: rotate(360deg);
+    }
+  }
+  .digit_timer {
+    font-size: 60px;
+    display: block;
+    text-align: center;
+  }
+  .button_timer {
+    display: block;
+    text-align: center;
+  }
+  .timer_box {
+    width: 100% !important;
+    height: 200px;
+    overflow: hidden !important;
+    display: flex !important;
+  }
+  .side_timer {
+    flex-shrink: 1;
+    background: #eb4d4b;
+    color: #efefef;
+    padding: 10px;
+    width: 300px;
+    height: 100%;
+    overflow-x: hidden;
+  }
+  .main_timer {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    overflow: auto;
+  }
+  .work_timer {
+    display: block;
+    width: 100%;
+    height: calc(100vh - 8rem);
+    height: calc(var(--vh, 1vh) * 100 - 14.5rem);
+    overflow-x: auto;
+  }

@@ -45,11 +45,19 @@ export default {
       },
       {
         title:"Special font",subtitle:"Copy emoji to press in your work or project"
-        ,link:"/font",icon:"mdi-function"
+        ,link:"/emoji/font",icon:"mdi-function"
       },
       {
         title:"Code color products",subtitle:"Copy emoji to press in your work or project"
         ,link:"/word_color",icon:"mdi-license"
+      },
+      {
+        title:"Abount me",subtitle:"Copy emoji to press in your work or project"
+        ,link:"/abount",icon:"mdi-license"
+      }
+      ,{
+        title:"Pomodoro",subtitle:"Copy emoji to press in your work or project"
+        ,link:"/timer/pomodoro",icon:"mdi-license"
       }]
     }
   }

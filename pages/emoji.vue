@@ -1,9 +1,14 @@
 <template>
   <div>
     <v-card>
-      <v-toolbar color="#34495e" dark flat>
-        <v-toolbar-title>😘 Emoji | Copy mode</v-toolbar-title>
+      <v-toolbar flat class="un-bg">
+  <v-tabs v-model="tab" align-with-title>
+            <v-tabs-slider color="yellow"></v-tabs-slider>
 
+            <v-tab v-for="item in items" :key="item.title" :to="item.to">
+              {{ item.title }}
+            </v-tab>
+          </v-tabs>
         <v-spacer></v-spacer>
 
         <v-btn icon>
@@ -14,15 +19,7 @@
           <v-icon>mdi-dots-vertical</v-icon>
         </v-btn>
 
-        <template v-slot:extension>
-          <v-tabs v-model="tab" dark color="#fff" align-with-title>
-            <v-tabs-slider color="yellow"></v-tabs-slider>
-
-            <v-tab v-for="item in items" :key="item.title" :to="item.to">
-              {{ item.title }}
-            </v-tab>
-          </v-tabs>
-        </template>
+       
       </v-toolbar>
 
       <v-card flat>
@@ -46,11 +43,11 @@ export default {
         },
         {
           title: "Emotions face",
-          to: "/emoji/emotions",
+          to: "/emoji/1",
         },
         {
           title: "Occupations",
-          to: "/emoji/occupations",
+          to: "/emoji/2",
         },
         {
           title: "Mood sound",

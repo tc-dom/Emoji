@@ -51,7 +51,7 @@ export default {
     },
     async fetch(page) {
       Promise.all([
-        fetch("/emoji" + this.page + ".json").then(
+        fetch("/emoji/emoji" + this.page + ".json").then(
           (res) => (res.ok && res.json()) || Promise.reject(res)
         ),
       ]).then((data) => {
