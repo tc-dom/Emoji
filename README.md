@@ -1,5 +1,7 @@
 # Emojy
 
+![Tux, screen](https://github.com/tc-dom/Emoji/blob/master/static/Screenshot%202566-01-19%20at%2010.02.39.png)
+
 ## Build Setup
 
 ```bash
