@@ -21,6 +21,12 @@ $ npm run generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
+
+![Tux, screen1](https://github.com/tc-dom/Emoji/blob/master/static/Screenshot%202566-01-19%20at%2010.03.02.png)
+
+![Tux, screen2](https://github.com/tc-dom/Emoji/blob/master/static/Screenshot%202566-01-19%20at%2010.03.18.png)
+
+
 ## Special Directories
 
 You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
